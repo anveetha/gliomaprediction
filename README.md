@@ -30,11 +30,9 @@ This repository contains code and documentation for a machine learning project f
 
 ```
 project/
-├── data/                    # Raw and processed datasets
-├── notebooks/               # Jupyter notebooks for analysis
-├── src/                     # Source code for model and utilities
-├── results/                 # Outputs, metrics, and visualizations
-└── README.md                # This file
+├── clinical_glioma_grading.csv         # processed datasets
+├── gliomaprediction.ipynb              # Jupyter notebooks for analysis
+└── README.md                           # This file
 ```
 
 ## Usage
