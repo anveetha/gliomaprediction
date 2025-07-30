@@ -55,4 +55,4 @@ project/
 - Nandini Muresh
 - Anveetha Suresh
 - Aashna Kothari
-- Francessa Palladino
+- Francesca Palladino
